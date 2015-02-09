@@ -1,0 +1,1 @@
+This repository is for my [personal website](http://www.marcbillow.com). The goal in this iteration was to keep it very simple and elegant, while still providing the relevent information needed to get in contact with me and see my work.
